@@ -1,0 +1,22 @@
+{
+  "name": "pimpa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pimpa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekoNoka/pimpa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NekoNoka/pimpa/issues"
+  },
+  "homepage": "https://github.com/NekoNoka/pimpa#readme",
+  "dependencies": {
+    "canvas": "^2.9.1"
+  }
+}
